@@ -14,7 +14,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <mainClass>com.inv.Application.java</mainClass>
+        <mainClass>com.inv.Application</mainClass>
     </properties>
 
     <organization>
